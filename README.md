@@ -74,7 +74,30 @@
 
 - It consists of RestaurantDao which is used to manage or datas.
 - @Repository annotation is used to make the class repository layer.
+
+### View
+## Get All Restaurants
+
+![image](https://user-images.githubusercontent.com/112794922/233850740-d202a353-75e7-4555-89f0-0a51c0846991.png)
+
+## Add Restaurants
+
+![image](https://user-images.githubusercontent.com/112794922/233850762-7c02a742-1092-4b26-9a7d-08e85ed9a91f.png)
+
+## Get Restaurants By Id
+
+![image](https://user-images.githubusercontent.com/112794922/233850797-b1895476-ac84-47c9-a82a-ebe76998e6b6.png)
+
+ ## Delete Restaurants
  
+ ![image](https://user-images.githubusercontent.com/112794922/233850838-5f209a68-e5bf-4065-8a2d-4a824260a5b5.png)
+ 
+![image](https://user-images.githubusercontent.com/112794922/233850848-7614352f-1775-4a51-b56e-785d5526ec86.png)
+
+## Update Restaurants
+
+![image](https://user-images.githubusercontent.com/112794922/233850866-7edcbf82-9ba9-498d-bdbf-a2c3bf1b4c1a.png)
+
 
 
 ## Summary :
