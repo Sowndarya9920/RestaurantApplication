@@ -4,6 +4,8 @@
 - The aim of the project is to perform the basic CRUD operations.
 - Spring initializer was used to create a spring boot application project.
 
+![Screenshot (104)](https://user-images.githubusercontent.com/112794922/233850631-14ac95fc-4401-4b21-b999-98a6d772ed54.png)
+
 
 ## Frameworks and Languages used :
 
